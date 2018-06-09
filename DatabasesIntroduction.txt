@@ -1,0 +1,74 @@
+### Exercises
+
+1. What data types do each of these values represent?
+
+1. String
+2. Int
+3. String
+4. Float
+5. String
+
+2. Explain when a database would be used. Explain when a text file would be used.
+
+If multiple applications are writing to the file, you would probably want to use a
+database. This way you can have multiple applications write persistant data safely.
+If only one app is maniputlating data, a CSV format file would likely be sufficient.
+
+3. Describe one difference between SQL and other programming languages.
+
+SQL uses single equals instead of double equals for equality.
+
+4. In your own words, explain how the pieces of a database system fit together at a high level.
+
+Data bases are organized by value, so you can search and sort by specific fields. Keys are used to identify individual data sets while tables are used to organize similiar data together.
+
+5. Explain the meaning of table, row, column, and value.
+
+A table is a way to organize data that is similar while a row is how indiviual elements are
+distinguished. A column is a set of a data that all elements in a table posses. A value
+is a single instance of information from a table.
+
+6. List three data types that can be used in a table.
+
+String, Object, Integer are three data types used in a table.
+
+7. Given this payments table, provide an English description of the following queries and include their results:
+
+- SELECT date, amount
+FROM payments;
+
+two column table with each row containing date and amount information from the payments table.
+
+- SELECT amount
+FROM payments
+WHERE amount > 500
+
+single column table displaying amounts greater than 500 from payments table
+
+- SELECT *
+FROM payments
+WHERE payee = 'Mega Foods';
+
+all columns where payee is "Mega Foods" from payments table.
+
+
+8. Given this users table, write SQL queries using the following criteria and include the output:
+
+The email and sign-up date for the user named DeAnder Data.
+
+SELECT email, sign-up date
+FROM users
+WHERE user = "DeAnder Data"
+
+
+The user ID for the user with email 'aleesia.algorithm@uw.edu'.
+
+SELECT user ID
+FROM users
+WHERE email = 'aleesia.algorithm@uw.edu'
+
+All the columns for the user ID equal to 4
+
+SELECT *
+FROM users
+WHERE user ID = 4
