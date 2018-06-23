@@ -1,0 +1,42 @@
+#### Exercises
+
+> 1.Choose 3 questions from the list of sample interview questions above and record yourself answering them using an unlisted Youtube channel. Submit the link with this checkpoint to get feedback on your responses.
+
+* Why do you want to work for this company?
+Company general reputation
+
+I have been a big fan of this company for as long as I can remember. Working at a company with this kind of track record offers the challenges and rewards that get you excited to show up to work everyday. This sounds like a great fit for someone like me.
+
+* Tell me about one of your accomplishments.
+One of the accomplishments I am most proud of was achieving my goal of earning a
+Division 1 football scholarship. It will always remind me of how hard you have work to overcome setbacks and to continue to grow individually. It was the most challenging
+thing I have done, but it was also the most rewarding.
+
+* What unique qualities do you bring to this team?
+Being on so many successful teams in the past has shown me that flexibility is a vital, but over looked skill. I'm willing to work with anyone on any task to make sure we are successful.
+
+
+> 2.Take a look at the sample phone screen scheduling request below. Write your response and submit it with this checkpoint.
+
+```
+Hi!
+
+Thanks so much for your interest in our Front-End Developer position at Vend.ly. We reviewed your resume and think that you might be a good fit for our team. We’d like to schedule an initial phone screen with you. Can you let me know a few times when you are available next week and the best number to reach you at?
+
+I look forward to speaking with you.
+
+Jacob Ross
+
+Technical Recruiter
+
+Vend.ly```
+
+Hi Jacob,
+
+I hope you are well. I have a couple of days next week I am available for a phone screen. Let me know if Monday after 1pm PST or Wednesday after 3pm PST will work for you. You can reach me on my mobile at (949) 705 9194. It is the best way to reach me.
+
+I'm looking forward to the call! Thank you for your time.
+
+Best,
+
+Zeb Smithson
